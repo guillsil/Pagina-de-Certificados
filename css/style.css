@@ -1,0 +1,30 @@
+/* Estilos generales */
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    margin: 20px 0;
+}
+
+/* Estilos para los enlaces */
+a {
+    display: block;
+    margin-bottom: 20px;
+    font-size: 18px;
+    text-decoration: none;
+    color: #3498db; /* Color del enlace */
+}
+
+a:hover {
+    color: #2980b9; /* Color del enlace al pasar el cursor sobre él */
+}
+
+/* Estilos para la página de certificado individual */
+embed {
+    width: 100%;
+    height: 100%;
+}
